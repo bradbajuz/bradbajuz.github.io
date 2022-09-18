@@ -1,0 +1,38 @@
+html {
+    --tw-bg-opacity: 1;
+    background-color: rgba(242, 242, 242, var(--tw-bg-opacity)) !important;
+}
+
+body {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --tw-bg-opacity: 1;
+    background-color: rgba(242, 242, 242, var(--tw-bg-opacity)) !important;
+}
+
+.logo-image {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 70px;
+}
+
+.bg-main-container {
+    background-color: #05190f;
+}
+
+.bg-logo-repeat {
+    background-image: url("../images/logo-only-opacity-20.png");
+    background-repeat: repeat;
+    background-size: 70px;
+}
+
+.header-color {
+    color: #27653a;
+}
+
+.sizing {
+    width: auto;
+    height: auto;
+    max-width: 20px;
+    max-height: 20px;
+}
